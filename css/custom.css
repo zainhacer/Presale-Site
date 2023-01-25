@@ -1,0 +1,8 @@
+.headroom--not-top.navbar-theme-primary {
+    background: #e6e7ee9e!important;
+    /* opacity: 0.8; */
+    backdrop-filter: blur(3px)!important;
+}
+.organic-radius {
+    border-radius: 100%!important;
+}
