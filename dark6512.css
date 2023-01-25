@@ -1,0 +1,56 @@
+body, .bg-soft, .bg-primary{
+    background-color: #303233!important;
+    color:#eee!important;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+    color: #c18b0f!important;
+}
+
+.headroom--not-top.navbar-theme-primary {
+    background: #ccbd55ad!important;
+}
+
+.headroom--not-top.navbar-theme-primary .nav-link, .navbar-light .navbar-nav .nav-link {
+    color: #e1e1e1!important;
+}
+
+.headroom--not-top{
+    box-shadow: 6px 6px 12px #7c6c1a, -6px -6px 12px #ffffff!important;
+}
+
+.shadow-soft {
+    box-shadow: 6px 6px 12px #5e5421, -6px -6px 12px #8b760c !important;
+}
+
+a, .text-action {
+    color: #adadad!important;
+}
+
+.text-gray, .text-gray:hover {
+    color: #cccccc !important;
+}
+
+.btn-primary {
+    color: #000000!important;
+    background-color: gold!important;
+    transition:0.3s;
+}
+
+.text-gray, .text-gray:hover {
+    color: #dcdcdc !important;
+}
+
+.btn {
+    box-shadow: 3px 3px 6px #453d13, -3px -3px 6px #23221f!important;
+    transition:0.3s;
+}
+
+.navbar-main .navbar-toggler-icon, .navbar-main .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")!important;
+}
+
+@media (max-width: 991.98px){
+.navbar-collapse.collapsing, .navbar-collapse.show {
+    background: #1a1a1b!important;
+    box-shadow: 6px 6px 12px #141623, -6px -6px 12px #252a04!important;
+}}
